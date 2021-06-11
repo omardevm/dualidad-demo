@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dualidad</string>
+    <string name="logo">logotipo</string>
+    <string name="app">App Dualidad</string>
+    <string name="label_home">Inicio</string>
+    <string name="label_article">Artículos</string>
+    <string name="label_video">Videos</string>
+    <string name="nav">Navegación</string>
+</resources>
