@@ -11,8 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/m16"
-        app:autoPlay="true"
-        app:showFullScreenButton="false"
-        app:videoId="S0Q4gqBUs7c" />
+        app:showFullScreenButton="false" />
 
 </FrameLayout>
