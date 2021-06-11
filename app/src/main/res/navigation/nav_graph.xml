@@ -27,7 +27,6 @@
     <fragment
         android:id="@+id/detailsFragment"
         android:name="com.example.dualidad.fragments.DetailsFragment"
-        android:label="fragment_details"
         tools:layout="@layout/fragment_details">
         <argument
             android:name="video"
