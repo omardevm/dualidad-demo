@@ -6,4 +6,6 @@
     <string name="label_article">Artículos</string>
     <string name="label_video">Videos</string>
     <string name="nav">Navegación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

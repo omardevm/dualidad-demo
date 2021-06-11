@@ -19,5 +19,18 @@
         android:id="@+id/videoFragment"
         android:name="com.example.dualidad.fragments.VideoFragment"
         android:label="@string/label_video"
-        tools:layout="@layout/fragment_video" />
+        tools:layout="@layout/fragment_video">
+        <action
+            android:id="@+id/action_videoFragment_to_detailsFragment"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.example.dualidad.fragments.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details">
+        <argument
+            android:name="video"
+            app:argType="com.example.dualidad.models.Measure" />
+    </fragment>
 </navigation>

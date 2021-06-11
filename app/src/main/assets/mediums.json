@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cigna.com/es-us/individuals-families/health-wellness/hw/trastorno-bipolar-aa167725",
+      "title": "Conoce las características y tratamiento",
+      "desc": "Fuente: CIGNA"
+    },
+    {
+      "url": "https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders",
+      "title": "Conoce las características y tratamiento",
+      "desc": "Fuente: WHO"
+    },
+    {
+      "url": "https://www.gob.mx/salud/articulos/que-es-el-trastorno-bipolar",
+      "title": "¿Qué es el trastorno bipolar?",
+      "desc": "Fuente: Secretaría de Salud"
+    }
+  ],
+  "video": [
+    {
+      "url": "3QykthLD8mU",
+      "title": "Conoce las características y tratamiento",
+      "desc": "El doctor Juan Pablo Undurraga, psiquiatra de la Clínica Alemana, nos explica qué es el trastorno bipolar."
+    },
+    {
+      "url": "4RFFIvuZdOk",
+      "title": "La Historia de Bruno: El trastorno bipolar",
+      "desc": "Hablamos sobre el Trastorno Bipolar, comentando sus causas típicas y cómo identificarlo."
+    },
+    {
+      "url": "5XVB34wP-Uc",
+      "title": "¿Cómo apoyar a personas con trastorno afectivo bipolar?",
+      "desc": "¿Sabías que alrededor de un 2 a 3% de la población mundial sufre de trastorno afectivo bipolar?"
+    }
+  ]
+}
